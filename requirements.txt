@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+asyncpg
+alembic
+redis
+reportlab
+openai
+langgraph
+python-dotenv
+slowapi
+psycopg2-binary  # For PostgreSQL
